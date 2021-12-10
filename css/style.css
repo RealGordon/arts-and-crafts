@@ -1,0 +1,41 @@
+header {
+    background-image: url("../images/pattern.jpeg");
+}
+header p {
+font-family:Arial, Helvetica, sans-serif;
+font-size:100px;
+font-weight: bold;
+color:khaki;
+text-align: center;
+
+}
+figcaption{
+    font-weight:bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    margin:auto;
+}
+.brushes-title{
+    background-color: mediumspringgreen;
+}
+.frames-title{
+    background-color: lightcoral;
+}
+.paint-title{
+    background-color: skyblue;
+}
+.price{
+    color:blue;
+    font-weight:bold;
+    font-family:Arial, Helvetica, sans-serif;
+}
+img{
+    margin:auto;
+}
